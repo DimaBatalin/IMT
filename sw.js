@@ -1,7 +1,7 @@
 const staticCacheName = 'site-static-v1'
 const assets = [
     '.',
-    'main.html',
+    'index.html',
     'images/img.png',
     'css/style.css',
     'manifest_and_icons/icon512_maskable.png',
